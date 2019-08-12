@@ -78,5 +78,5 @@ The final result gives us data points that reflect the structure of the high dim
 ![](d11.JPG)
 
 ## Conclusion-   
-* Despite being published over a decade ago, t-SNE remains one of the most popular methods of dimensionality reduction for visualization, and for good reason. It is robust, flexible, and overall produces good results.
+Despite being published over a decade ago, t-SNE remains one of the most popular methods of dimensionality reduction for visualization, and for good reason. It is robust, flexible, and overall produces good results.
 ![](d7.gif)
